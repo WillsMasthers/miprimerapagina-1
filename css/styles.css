@@ -191,3 +191,6 @@ ul{
     flex-direction: column;
     width: 400px;
 }
+.greeting{
+    text-align:center;
+}
