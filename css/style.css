@@ -1,0 +1,27 @@
+.box{
+    color: black;
+    background-color: lightskyblue;
+    width: 250px;
+    height: 160px;
+    padding: 15px;
+    border: 10px solid black;
+    margin: 65px;
+}
+.mi-clase{
+    color: rgb(246, 10, 10);
+    background-color: blue;
+    width: 250px;
+    height: 160px;
+    padding: 15px;
+    border: 10px solid black;
+    margin: 65px;
+}
+.juego{
+    color: yellow;
+    background-color: grey;
+    width: 250px;
+    height: 160px;
+    padding: 15px;
+    border: 10px solid black;
+    margin: 65px;
+}
