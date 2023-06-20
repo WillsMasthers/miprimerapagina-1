@@ -190,6 +190,7 @@ ul{
     display: flex;
     flex-direction: column;
     width: 400px;
+   border:3px solid red;
 }
 .greeting{
     text-align:center;
